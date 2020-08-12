@@ -1,0 +1,16 @@
+#success-screen{
+
+    background-color: var(--color-primary);
+
+}
+
+#success-screen #container img{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+

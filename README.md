@@ -22,5 +22,5 @@ Proffy is a web application for students to find teachers simply by typing a sub
 
 - All the code will be commented 
 - The "thanks screen" will be functional 
-- Bug fixes on deleting, after creating a schedule when you don't want it anymore.
+- Bug fixes on deleting, after you create a new schedule and don't want it nomore.
 

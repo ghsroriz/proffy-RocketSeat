@@ -14,8 +14,9 @@ Proffy is a web application for students to find teachers simply by typing a sub
 
 # New Features!
 
-  - Recently a new screen was added to the code but isn't functional, it will appear when the teacher finish his register.
-  - You can find it here: [HTML](https://github.com/ghsroriz/proffy-RocketSeat/blob/master/src/views/success-screen.html) , [CSS](https://github.com/ghsroriz/proffy-RocketSeat/blob/master/public/styles/partials/success-screen.css)
+| Date | Task |
+| ------ | ------ |
+| 12/08/2020 | Recently a new screen was added to the code but isn't functional, it will appear when the teacher finish his register. [HTML](https://github.com/ghsroriz/proffy-RocketSeat/blob/master/src/views/success-screen.html) , [CSS](https://github.com/ghsroriz/proffy-RocketSeat/blob/master/public/styles/partials/success-screen.css)|
 
 
 # Coming soon!!!!

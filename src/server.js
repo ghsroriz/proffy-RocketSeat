@@ -27,6 +27,5 @@ server
     .get("/", pageLanding)
     .get("/study", pageStudy)
     .get("/give-classes", pageGiveClasses)
-    .get("/screen-success", successAdding)
     .post("/save-classes", saveClasses)
     .listen(3333);

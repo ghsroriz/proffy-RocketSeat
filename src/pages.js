@@ -58,6 +58,8 @@ const pageGiveClasses = (request, response) => {
 };
 
 
+
+
 const saveClasses = async (request, response) => {
     const createProffy = require('./database/createProffy');
 
@@ -98,15 +100,9 @@ const saveClasses = async (request, response) => {
     }
 }
 
-
-const successAdding = (request, response) => {
-    return response.render("success-screen.html");
-}
-
 module.exports = {
     pageLanding,
     pageStudy,
     pageGiveClasses,
-    saveClasses,
-    successAdding
+    saveClasses
 }

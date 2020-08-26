@@ -59,7 +59,7 @@ const pageGiveClasses = (request, response) => {
 
 
 
-//função que recebe informaações
+//função que recebe informações
 const saveClasses = async (request, response) => {
     const createProffy = require('./database/createProffy');
 

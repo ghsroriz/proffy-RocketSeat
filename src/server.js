@@ -8,6 +8,7 @@ nunjucks.configure('src/views', {
     noCache: true
 });
 
+//recuperando funções
 const {
     pageLanding,
     pageStudy,
